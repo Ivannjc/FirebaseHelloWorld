@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "786324555585",
+    "firebase_url": "https://fir-hello-world-1ea06.firebaseio.com",
+    "project_id": "fir-hello-world-1ea06",
+    "storage_bucket": "fir-hello-world-1ea06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786324555585:android:8fa05886356e1e10",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.firebasehelloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786324555585-3ue7tgq07358ahufr4nk0p76hitg83a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdjiM4tnC6lWU9zCCitTw7bs9xWwfHEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
